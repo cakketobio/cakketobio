@@ -5,10 +5,9 @@ Software Engineering student at UniEVANGÉLICA[cite: 3], passionate about buildi
 ---
 
 ### Tech Stack
-- **Languages:** Go (Golang), TypeScript, JavaScript, Python, SQL[cite: 3]
-- **Backend:** Node.js, NestJS, REST APIs, React[cite: 3]
-- **Data & Databases:** PostgreSQL, MySQL, Data Warehousing, Dimensional Modeling, ETL[cite: 3]
-- **Tools & Practices:** Git, GitHub, Agile Methodologies, Layered Architecture[cite: 3]
+- **Languages:** Go (Golang), TypeScript, JavaScript, Python, SQL
+- **Data & Databases:** PostgreSQL, MySQL, Data Warehousing, Dimensional Modeling, ETL
+- **Tools & Practices:** Git, GitHub, Agile Methodologies, Layered Architecture
 
 ---
 
@@ -21,5 +20,5 @@ Software Engineering student at UniEVANGÉLICA[cite: 3], passionate about buildi
 ---
 
 ### Let's Connect
-- **LinkedIn:** [Anna Luisa Andrade](https://br.linkedin.com/in/anna-luisa-andrade-0185903b2)[cite: 3]
+- **LinkedIn:** [Anna Luisa Andrade](https://br.linkedin.com/in/anna-luisa-andrade-0185903b2)
 - **Email:** andradeluisa1303@gmail.com
