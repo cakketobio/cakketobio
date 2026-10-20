@@ -13,7 +13,7 @@ Software Engineering student at UniEVANGÉLICA[cite: 3], passionate about buildi
 ---
 
 ### Featured Projects
- **[GoSilo-App](https://github.com/yik3x/GoSilo-App):** Team leadership and MVP development for agricultural silos management (AgroStartup)
+- **[GoSilo-App](https://github.com/yik3x/GoSilo-App):** Team leadership and MVP development for agricultural silos management (AgroStartup)
 - **[GoCart](https://github.com/cakketobio/GoCart):** E-commerce backend built in Go, focused on concurrency and high performance
 - **[NestJS Auth Starter](https://github.com/cakketobio/nestjs-auth-starter):** Modern backend template with TypeScript, NestJS, and secure JWT/OAuth2 authentication
 - **[SQL Data Warehouse Project](https://github.com/cakketobio/sql-data-warehouse-project):** Dimensional modeling, complex queries, and ETL pipelines
